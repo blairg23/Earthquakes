@@ -1,0 +1,88 @@
+Date - UTC - Time,Latitude,Longitude,Magnitude,Fatalities,Region
+6/11/1902 5:00,50,148,8,,Sea of Okhotsk
+1/4/1903 5:07,-20,-175,8,,Tonga
+8/11/1903 4:32,36.36,22.97,8.3,,southern Greece
+7/9/1905 9:40,49,99,8.4,,Mongolia
+7/23/1905 2:46,49,98,8.4,,central Mongolia
+1/31/1906 15:36,1,-81.5,8.8,1000,Colombia-Ecuador
+8/17/1906 0:40,-33,-72,8.2,3882,"Valparaiso, Chile"
+10/21/1907 4:23,38,69,8,,Afghanistan
+12/12/1908 12:08,-14,-78,8.2,,off the coast of central Peru
+6/15/1911 14:26,28,130,8.1,12,"Ryukyu Islands, Japan"
+5/26/1914 14:22,-2,137,8,,West New Guinea
+5/1/1915 5:00,47,155,8,,Kurile Islands
+5/1/1917 18:26,-29,-177,8,,"Kermadec Islands, New Zealand"
+6/26/1917 5:49,-15,-173,8.4,,Tonga
+8/15/1918 12:18,5.653,123.563,8,50,Celebes Sea
+9/7/1918 17:16,45.5,151.5,8.2,,Kuril Islands
+4/30/1919 7:17,-19.823,-172.215,8.2,,Tonga region
+6/5/1920 4:21,23.5,122,8,,Taiwan region
+9/20/1920 14:39,-20,168,8,,Loyalty Islands
+11/11/1922 4:32,-28.553,-70.755,8.5,,Chile-Argentina Border
+2/3/1923 16:01,54,161,8.5,,Kamchatka
+4/14/1924 16:20,7.023,125.954,8.3,,"Mindanao, Philippines"
+6/17/1928 3:19,16.33,-96.7,8,,"Oaxaca, Mexico"
+8/10/1931 21:18,47.1,89.8,8,5,"northern Xinjiang, China"
+6/3/1932 10:36,19.84,-103.99,8.1,,"Jalisco, Mexico"
+3/2/1933 17:31,39.22,144.62,8.4,2990,"Sanriku, Japan"
+1/15/1934 8:43,27.55,87.09,8.1,10700,"Bihar, India"
+2/1/1938 19:04,-5.05,131.62,8.5,,Banda Sea
+11/10/1938 20:18,55.33,-158.37,8.2,,"Shumagin Islands, Alaska"
+4/30/1939 2:55,-10.5,158.5,8,,Solomon Islands
+5/24/1940 16:33,-10.5,-77,8.2,,near the Coast of central Peru
+11/25/1941 18:03,37.171,-18.96,8.2,,Azores-Cape St. Vincent Ridge
+8/24/1942 22:50,-15,-76,8.2,30,Off the coast of central Peru
+4/6/1943 16:07,-30.75,-72,8.2,18,"off the coast of Coquimbo, Chile"
+12/7/1944 4:35,33.75,136,8.1,1223,"Tonankai, Japan"
+11/27/1945 21:57,24.5,63,8,4000,off the coast of Pakistan
+4/1/1946 12:28,52.75,-163.5,8.1,165,"Unimak Islands, Alaska"
+8/4/1946 17:51,19.25,-69,8,100,Dominican Republic
+12/20/1946 19:19,32.5,134.5,8.1,1330,"Nankaido, Japan"
+1/24/1948 17:46,10.5,122,8.2,72,"Panay, Philippines"
+8/22/1949 4:01,53.62,-133.27,8.1,,"Queen Charlotte Island, B.C., Canada"
+8/15/1950 14:09,28.5,96.5,8.6,1526,Assam-Tibet
+3/4/1952 1:22,42.5,143,8.1,31,"Hokkaido, Japan region"
+11/4/1952 16:58,52.76,160.06,9,,"Kamchatka, Russia"
+3/9/1957 14:22,51.56,-175.39,8.6,,"Andreanof Islands, Alaska"
+12/4/1957 3:37,45.15,99.21,8.1,,"Gobi-Altai, Mongolia"
+11/6/1958 22:58,44.329,148.623,8.3,,Kuril Islands
+5/4/1959 7:15,53.351,159.645,8.2,1,near the east coast of Kamchatka
+5/22/1960 19:11,-38.29,-73.05,9.5,1655,Chile
+10/13/1963 5:17,44.9,149.6,8.5,,Kuril Islands
+3/28/1964 3:36,61.02,-147.65,9.2,125,"Prince William Sound, Alaska"
+2/4/1965 5:01,51.21,-178.5,8.7,,"Rat Islands, Alaska"
+10/17/1966 21:41,-10.807,-78.684,8.1,125,near the coast of central Peru
+5/16/1968 0:49,40.903,143.346,8.2,47,"off the east coast of Honshu, Japan"
+8/11/1969 21:27,43.478,147.815,8.2,,Kuril Islands
+7/31/1970 17:08,-1.49,-72.56,8,,Colombia
+1/10/1971 7:17,-3.132,139.697,8.1,,"Papua, Indonesia"
+10/3/1974 14:21,-12.254,-77.524,8.1,78,near the coast of central Peru
+8/16/1976 16:11,6.292,124.09,8,8000,"Mindanao, Philippines"
+6/22/1977 12:08,-22.878,-175.9,8.1,,Tonga region
+8/19/1977 6:08,-11.085,118.464,8.3,100,"south of Sumbawa, Indonesia"
+12/12/1979 7:59,1.598,-79.358,8.1,600,near the coast of Ecuador
+3/3/1985 22:47,-33.135,-71.871,8,177,"offshore Valparaiso, Chile"
+9/19/1985 13:17,18.19,-102.533,8,9500,"Michoacan, Mexico"
+5/7/1986 22:47,51.52,-174.776,8,,"Andreanof Islands, Aleutian Islands, Alaska"
+5/23/1989 10:54,-52.341,160.568,8.1,,Macquarie Island region
+6/9/1994 0:33,-13.841,-67.553,8.2,5,"La Paz, Bolivia"
+10/4/1994 13:22,43.773,147.321,8.3,11,Kuril Islands
+7/30/1995 5:11,-23.34,-70.294,8,3,Near Coast of Northern Chile
+10/9/1995 15:35,19.055,-104.205,8,49,"Near Coast of Jalisco, Mexico"
+2/17/1996 5:59,-0.891,136.952,8.2,166,"Irian Jaya region, Indonesia"
+3/25/1998 3:12,-62.877,149.527,8.1,,Balleny Islands region
+11/16/2000 4:54,-3.98,152.169,8,2,"New Ireland region, Papua New Guinea"
+6/23/2001 20:33,-16.264,-73.641,8.4,75,near the coast of southern Peru
+9/25/2003 19:50,41.815,143.91,8.3,,"Hokkaido, Japan region"
+12/23/2004 14:59,-49.312,161.345,8.1,,north of Macquarie Island
+12/26/2004 0:58,3.295,95.982,9.1,227898,off the west coast of northern Sumatra
+3/28/2005 16:09,2.074,97.013,8.6,1313,"Northern Sumatra, Indonesia"
+5/3/2006 15:26,-20.187,-174.123,8,,Tonga
+11/15/2006 11:14,46.592,153.226,8.3,,Kuril Islands
+1/13/2007 4:23,46.243,154.524,8.1,,East of the Kuril Islands
+4/1/2007 20:39,-8.466,157.043,8.1,34,Solomon Islands
+8/15/2007 23:40,-13.386,-76.603,8,650,Near the Coast of Central Peru
+9/12/2007 11:10,-4.438,101.367,8.5,25,"Southern Sumatra, Indonesia"
+9/29/2009 17:48,-15.489,-172.095,8.1,192,Samoa Islands region
+2/27/2010 6:34,-35.846,-72.719,8.8,577,"Offshore Maule, Chile"
+3/11/2011 5:46,38.322,142.369,9,28050,"Near the East Coast of Honshu, Japan"

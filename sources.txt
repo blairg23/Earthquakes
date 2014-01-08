@@ -1,0 +1,32 @@
+Audio:
+
+http://wiki.python.org/moin/PythonInMusic
+
+http://pyaudiere.org/
+
+http://www.ar.media.kyoto-u.ac.jp/members/david/softwares/audiolab/
+
+http://scikits.appspot.com/scikits
+
+http://docs.python.org/library/wave.html
+
+http://davywybiral.blogspot.com/2010/09/procedural-music-with-pyaudio-and-numpy.html
+
+http://people.csail.mit.edu/hubert/pyaudio/
+
+setuptools installer: http://pypi.python.org/pypi/setuptools#files
+
+
+
+Annotation:
+
+http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.annotate
+
+Subplots:
+http://matplotlib.sourceforge.net/users/gridspec.html
+
+http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.subplot
+
+
+Bad visuals:
+http://earthquake.usgs.gov/earthquakes/eqarchives/year/graphs.php

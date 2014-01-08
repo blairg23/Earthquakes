@@ -1,0 +1,18 @@
+- Plotted most significant earthquakes
+- Got colormap working
+	- Worked on specific colors / alpha channels
+- Plotted all earthquakes between 1973 and 2009 (n=17143)
+- Tried to get audio working
+	- Can play, but not record
+
+- Formatted annotation / played with parameters
+	- Had to format png file names and date to maintain preceding zeros
+	- Worked with text coordinates
+	- Entered coordinates, datetime, and magnitude
+		- Formatted coordinates and datetime to be less obstructive to the visual
+		- Formatted Magnitude to be more noticeable in the visual
+	- Adjusted fontfamily to "serif"
+
+- Used subplots to create more information for each earthquake
+	- used subplot2grid to create a table for my subplots
+	- used an alpha channel on my scatter plot
