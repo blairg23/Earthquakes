@@ -3,7 +3,7 @@ Earthquakes
 
 Python script to plot earthquakes that have occurred in the world, using the Matplotlib Basemap module
 
-===========
+
 
 Additional Notes:
 
