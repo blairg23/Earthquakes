@@ -11,4 +11,4 @@ You will need the Basemap module to run this Python script. Instructions on how 
 
 http://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/
 
-I have included matplotlib and the latest basemap module in the "Dependencies" directory of this GIT.
+I have included the matplotlib module in the "Dependencies" directory of this GIT.
