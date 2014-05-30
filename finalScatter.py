@@ -5,15 +5,20 @@ import numpy as np
 import matplotlib.pyplot as plt
 from random import *
 
+all_events = True #Set this to False to see just the worst earthquakes
+
 def drawMap():
     #Read in the data:
-    fileName = 'Data\\worst_earthquakes.csv'
-    #fileName = 'Data\\all_earthquakes.csv'
+    if all_events:
+        fileName = 'Data\\all_earthquakes.csv'
+        title = 'All Earthquakes Between 1973 and 2009'        
+    else:
+        fileName = 'Data\\worst_earthquakes.csv'
+        title = 'Worst Earthquakes Ever Recorded'        
     dataReader = ReadInCSV(fileName)
     dataSet = dataReader.data
 
     #Set up the variables:
-    title = 'Worst Earthquakes Ever Recorded'
 
     #lat/lon coordinates of all the earthquakes in the world:
     lats = []
@@ -38,11 +43,15 @@ def drawMap():
     for dataRow in dataSet:
         lats.append(float(dataRow['Latitude']))
         lons.append(float(dataRow['Longitude']))
-        regions.append(str(dataRow['Region']))
+        if all_events == False:
+            regions.append(str(dataRow['Region']))
         #If there are any recored fatalities to report:
-        if dataRow['Fatalities'] != '':
-            fatalities.append(float(dataRow['Fatalities']))
-        magnitudes.append(float(dataRow['Magnitude']))
+            if dataRow['Fatalities'] != '':
+                fatalities.append(float(dataRow['Fatalities']))
+        if dataRow['Magnitude'] != '':
+            magnitudes.append(float(dataRow['Magnitude']))
+        else:
+            magnitudes.append(1.0)
         
     #Convert to numpy arrays:
     x,y = m(lons,lats)
@@ -63,7 +72,10 @@ def drawMap():
     cbar = plt.colorbar(orientation='horizontal')
     cbar.set_label('Magnitude')
     #The limits of the colorbar:
-    plt.clim(8,9)
+    if all_events:
+        plt.clim(1,9)
+    else:
+        plt.clim(8,9)
 ##    #Places the name of the region on each earthquake:
 ##    for name, xpt, ypt in zip(regions, x, y):
 ##        randomNumber = randint(100000, 1000000)
@@ -72,7 +84,10 @@ def drawMap():
 ##            arrow += '-' 
 ##        plt.text(xpt, ypt, str(arrow) +str(name))
     #Save the image as a 7680x4800 .png file:
-    fileName = 'worst_earthquakes.png'
+    if all_events:
+        fileName = 'all_earthquakes.png'
+    else:
+        fileName = 'worst_earthquakes.png'
     figure = plt.gcf()
     #figure.set_size_inches(19.2, 10.8)
     figure.set_size_inches(76.80, 48.00)

@@ -12,3 +12,5 @@ You will need the Basemap module to run this Python script. Instructions on how 
 http://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/
 
 I have included the matplotlib module in the "Dependencies" directory of this GIT.
+
+To see a demonstration of the script, run finalProject.py. To just see a simple first draft of the product, run finalScatter.py.
